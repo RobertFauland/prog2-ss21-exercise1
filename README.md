@@ -1,4 +1,4 @@
-#Code Template für die Übung 1 aus Programmieren 2
+## Code Template für die Übung 1 aus Programmieren 2
 
 - Forken Sie das Projekt
 - Clonen Sie Ihr Projekt in der IDE (IntellJ oder Eclipse)
@@ -8,4 +8,4 @@
 - Der Folder /src/test/resoures muss als test resource folder markiert sein
 - Schreiben Sie Ihre Testcases unter /test/java/
 - Im Order resources können Files mit Testdaten abgelegt werden
-- Eine Klasse TestUtils steht zur Verfügung der nur der Filenamen übergeben werden muss und die Zeilen als String zurückliefert# prog2-ss21-exercise1
+- Eine Klasse TestUtils steht zur Verfügung, der nur der Filenamen übergeben werden muss und die Zeilen als String zurückliefert
